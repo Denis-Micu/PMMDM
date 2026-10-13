@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Añade estos recursos a tu strings.xml (o deja este archivo tal cual). Mantén tu app_name. -->
+<resources>
+    <string name="titulo_listado">Prestado · Mis préstamos</string>
+    <string name="opciones">Opciones</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="nuevo_prestamo">+ Nuevo préstamo</string>
+    <string name="cd_lista">Lista de préstamos</string>
+    <string name="fila_persona_fecha">%1$s · %2$s</string>
+
+    <string name="titulo_detalle">Detalle del préstamo</string>
+    <string name="det_objeto">Objeto</string>
+    <string name="det_persona">Prestado a</string>
+    <string name="det_fecha">Fecha del préstamo</string>
+    <string name="det_notas">Notas</string>
+    <string name="sin_notas">Sin notas</string>
+    <string name="volver">Volver</string>
+
+    <string name="titulo_formulario">Nuevo préstamo</string>
+    <string name="etiqueta_objeto">Objeto*</string>
+    <string name="etiqueta_persona">Persona*</string>
+    <string name="etiqueta_fecha">Fecha* (dd/mm/aaaa)</string>
+    <string name="etiqueta_notas">Notas (opcional)</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="error_objeto_vacio">Falta el objeto.</string>
+    <string name="error_objeto_corto">El objeto necesita al menos 2 caracteres.</string>
+    <string name="error_persona_vacia">Falta la persona.</string>
+    <string name="error_fecha_vacia">Falta la fecha.</string>
+    <string name="error_fecha_formato">Escribe una fecha real con formato dd/mm/aaaa.</string>
+
+    <string name="ayuda_titulo">Cómo usar Prestado</string>
+    <string name="ayuda_texto">Toca un préstamo de la lista para ver su detalle. Pulsa «+ Nuevo préstamo» para registrar uno: objeto, persona y fecha son obligatorios y las notas son opcionales. Cancelar o Atrás vuelven al listado sin guardar nada.</string>
+    <string name="ayuda_cerrar">Entendido</string>
+</resources>
